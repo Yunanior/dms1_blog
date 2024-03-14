@@ -6,6 +6,8 @@ snippet: This is an excerpt of my first blog post.
 
 Hello, world!
 
+checking for updates! 😱
+
 # Scavenger Hunt
 ![a photo in labriry](/w01s01/01.jpg)
 ## This is h2
