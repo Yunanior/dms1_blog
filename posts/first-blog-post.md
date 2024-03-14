@@ -8,7 +8,6 @@ Hello, world!
 
 # Scavenger Hunt
 ## This is h2
-[
-](https://vimeo.com/921993721?share=copy)https://vimeo.com/921993721?share=copy_underline_
+[](https://vimeo.com/921993721?share=copy)https://vimeo.com/921993721?share=copy_underline_
 
 **bold**
