@@ -14,6 +14,7 @@ checking for updates! 😱
 ![image 3](/w01s1/05.png)
 ![image 4](/w01s1/06.png)
 ![image 5](/w01s1/07.png)
+![image 6](/w01s1/08.png)
 ## This is h2
 [vimeo link](https://vimeo.com/921993721?share=copy)
 
