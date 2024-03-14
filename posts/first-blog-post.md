@@ -9,7 +9,7 @@ Hello, world!
 checking for updates! 😱
 
 # Scavenger Hunt
-![image 1](./w01s1/01.jpg)
+![image 1](./w01s1/01.png)
 
 ## This is h2
 [vimeo link](https://vimeo.com/921993721?share=copy)
