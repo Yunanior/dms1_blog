@@ -9,7 +9,8 @@ Hello, world!
 checking for updates! 😱
 
 # Scavenger Hunt
-![a photo in labriry](/w01s01/01.jpg)
+![a photo in labriry](/w01s1/01.jpg)
+
 ## This is h2
 [](https://vimeo.com/921993721?share=copy)https://vimeo.com/921993721?share=copy_underline_
 
