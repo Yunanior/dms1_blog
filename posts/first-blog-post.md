@@ -6,7 +6,6 @@ snippet: This is an excerpt of my first blog post.
 
 Hello, world!
 
-checking for updates! 😱
 
 # Scavenger Hunt
 ![image 1](./w01s1/01.png)
